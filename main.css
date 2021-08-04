@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+.primary-button {
+    background-color: lightgrey;
+    border: 6px solid black;
+    border-radius: 10px;
+    width: 150px;
+    margin: 10px;
+  }
+
+.secondary-button{
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.ATMWindow {
+    width: fit-content;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: auto;
+    padding: 50px;
+    
+}
